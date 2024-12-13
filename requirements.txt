@@ -1,0 +1,7 @@
+tensorflow
+tensorflow_io
+tensorflow_hub
+matplotlib
+pandas
+numpy
+IPython
